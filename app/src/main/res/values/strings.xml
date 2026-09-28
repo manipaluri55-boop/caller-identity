@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Caller Identity</string>
+    <string name="notification_service_name">Caller Identity Notification Monitor</string>
+    <string name="notification_service_desc">Monitors eligible incoming utility notifications and automates target actions locally.</string>
+</resources>
